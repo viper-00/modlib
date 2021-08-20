@@ -1,8 +1,8 @@
 # Modlib
 
-实现 GitHub 上的 Go 模块结构，包括多个软件包（lib）和命令行工具（cmd）。
+实现 Go 模块结构，包含软件包（lib）和命令行工具（cmd）。
 
-只需在项目中引入 Go 模块，就可轻松使用：
+只需在项目中引入 Go 模块，就可以轻松使用：
 
 ```
 import "github.com/zhong-my/modlib"
